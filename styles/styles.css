@@ -3,8 +3,18 @@
     margin: 0;
 }
 
+/* Required styles */
+
 body {
     font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4 {
+    line-height: 1.8em;
+}
+
+p {
+    line-height: 1.5em;
 }
 
 ul {
@@ -49,4 +59,104 @@ ul {
 
 .cta {
     background-color: #3882f6;
+}
+
+
+/* Positioning styles */
+
+img {
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.navlinks {
+    display: flex;
+    justify-content: space-around;
+    gap: 35px;
+}
+
+.inner {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0;
+    display: flex;
+}
+
+.nav .inner {
+    justify-content: space-between;
+    padding-bottom: 60px;
+}
+
+.hero .inner {
+    align-items: center;
+    gap: 50px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.random {
+    text-align: center;
+    padding: 30px;
+}
+
+.random h2 {
+    margin: 20px 0;
+}
+
+.random .inner {
+    justify-content: center;
+    gap: 40px;
+}
+
+.adventure {
+    max-width: 250px;
+}
+
+.adventure img {
+    border: 2px solid #3882f6;
+}
+
+.quote .inner {
+    font-size: 21px;
+    width: 800px;
+    padding: 60px 0;
+}
+
+.quote figcaption {
+    text-align: right;
+    font-weight: 700;
+}
+
+.cta {
+    width: 1200px;
+    margin: 60px auto;
+    padding: 40px 0;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+
+.cta div {
+    width: 600px;
+    color: white;
+}
+
+.cta .button {
+    border: 1px solid white;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
 }
