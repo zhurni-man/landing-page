@@ -7,8 +7,8 @@ HTML/CSS/Flexbox
 
 ### Images courtesy of:
 
-Joris Beugels on Unsplash
-Kedar Gadge on Unsplash
-Craig Vodnik on Unsplash
-Pradeep Nayak on Unsplash
-Paxson Woelber on Unsplash
+- Joris Beugels on Unsplash
+- Kedar Gadge on Unsplash
+- Craig Vodnik on Unsplash
+- Pradeep Nayak on Unsplash
+- Paxson Woelber on Unsplash
