@@ -1,0 +1,52 @@
+/* Reset */
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.button {
+    background-color: #3882f6;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.nav,
+.hero,
+.footer {
+    background-color: #1f2937;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.logo,
+.navlinks,
+.hero h1 {
+    color: #f9faf8;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero p,
+.footer p {
+    color: #e5e7eb;
+}
+
+.cta {
+    background-color: #3882f6;
+}
